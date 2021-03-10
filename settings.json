@@ -1,11 +1,9 @@
 {
-    "workbench.colorTheme": "Visual Studio Dark",
-    "window.menuBarVisibility": "default",
+    "window.menuBarVisibility": "hidden",
     "workbench.activityBar.visible": true,
     "window.zoomLevel": 0,
     "workbench.iconTheme": "material-icon-theme",
     "editor.minimap.enabled": false,
     "material-icon-theme.folders.theme": "specific",
-    "material-icon-theme.folders.color": "#fdd835"
-    
+    "material-icon-theme.folders.color": "#fdd835"    
 }
